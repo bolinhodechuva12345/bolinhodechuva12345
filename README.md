@@ -1,0 +1,16 @@
+# sobre mim **emanueli**
+ ## eu adoro fazer sobremesas
+ **ola eu sou bolinhodechuva12345
+ eu estou interessada em aprender novas linguagens
+ eu estou recentimente aprendendo a programar na linguagen de java script e scratch
+ :+1: o meu [e-mail](emanueli.elias@escola.pr.gov.br)
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+bolinhodechuva12345/bolinhodechuva12345 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
